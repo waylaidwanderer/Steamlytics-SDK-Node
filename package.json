@@ -1,0 +1,29 @@
+{
+  "name": "steamlytics",
+  "version": "1.0.0",
+  "description": "Node.js library for Steamlytics' various APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waylaidwanderer/Steamlytics-SDK-Node.git"
+  },
+  "keywords": [
+    "Steamlytics",
+    "Steam",
+    "price",
+    "pricing",
+    "market",
+    "Bitskins",
+    "OPSkins",
+    "API"
+  ],
+  "author": "waylaidwanderer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/waylaidwanderer/Steamlytics-SDK-Node/issues"
+  },
+  "homepage": "https://github.com/waylaidwanderer/Steamlytics-SDK-Node#readme"
+}
